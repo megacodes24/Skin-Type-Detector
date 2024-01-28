@@ -1,1 +1,2 @@
-# Skin-Type-Detector
+# Skin Type Recognition
+
